@@ -1,0 +1,10 @@
+{
+  "name": "NodeJsSite",
+  "version": "0.0.0",
+  "description": "NodeJsSite",
+  "main": "server.js",
+  "author": {
+    "name": "Faik",
+    "email": ""
+  }
+}
